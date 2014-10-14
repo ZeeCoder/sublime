@@ -1,10 +1,22 @@
 {
+	"caret_style": "phase",
 	"color_scheme": "Packages/User/predawn (SL).tmTheme",
-	"font_size": 12,
+	"fade_fold_buttons": false,
+	"font_size": 13,
+	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"spell_check": false,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
