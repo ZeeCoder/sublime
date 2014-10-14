@@ -18,5 +18,6 @@
 	],
 	"spell_check": false,
 	"theme": "Soda Dark.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".sass-cache"]
 }
