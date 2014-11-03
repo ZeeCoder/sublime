@@ -1,13 +1,21 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/predawn (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
 	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache"
+	],
 	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
@@ -17,7 +25,6 @@
 		120
 	],
 	"spell_check": false,
-	"theme": "Soda Dark.sublime-theme",
-	"translate_tabs_to_spaces": true,
-    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".sass-cache"]
+	"theme": "Afterglow-green.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
