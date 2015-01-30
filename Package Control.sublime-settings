@@ -1,15 +1,25 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"Alignment",
 		"ApacheConf.tmLanguage",
 		"Clickable URLs",
+		"Color Highlighter",
 		"DocBlockr",
 		"Emmet",
 		"Emmet Css Snippets",
 		"GitGutter",
 		"HTML Boilerplate",
 		"LESS",
+		"Package Control",
 		"Predawn",
 		"Project Manager",
 		"Sass",
