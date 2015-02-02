@@ -2,23 +2,23 @@
     <content><![CDATA[
 'use strict';
 var clam_module = require('clam/core/module');
-//var clam_module = require('clam/core/module');
 //var clam_container = require('clam/core/container');
 //var modifier = require('clam/core/modifier');
 var inherits = require('util').inherits;
 
 var settings = {
-    name: '${2:boiler}',
     // type: 'singleton',
-    //hasGlobalHooks: true,
+    // hasGlobalHooks: true,
     conf: {
     }
 };
 
-function ${1:Boiler}($jQObj, conf) {
+function ${1:Boiler}(\$jQObj, conf) {
     var self = this;
-    clam_module.apply(this, [$jQObj, settings, conf]);
+    clam_module.apply(this, [\$jQObj, settings, conf]);
     // this.expose();
+    // throw this.prettify('error');
+    // clam_container.get('clam-module');
     
     // this.getHooks('module');
 }
