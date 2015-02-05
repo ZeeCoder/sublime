@@ -2,8 +2,9 @@
     <content><![CDATA[
 'use strict';
 var clam_module = require('clam/core/module');
-//var clam_container = require('clam/core/container');
-//var modifier = require('clam/core/modifier');
+// var clam_container = require('clam/core/container');
+// var modifier = require('clam/core/modifier');
+// var \$ = require('jquery');
 var inherits = require('util').inherits;
 
 var settings = {

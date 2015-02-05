@@ -10,13 +10,13 @@
 		"CVS",
 		".sass-cache"
 	],
-	"font_size": 11,
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
+		"Markdown",
 		"SublimeLinter",
-		"Markdown"
+		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
