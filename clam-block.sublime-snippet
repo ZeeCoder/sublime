@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+\$amp: ".b-${1:block}";
+
+#{\$amp} {
+    ${2}
+}
+
+]]></content>
+    <tabTrigger>clam-block</tabTrigger>
+    <scope>source.sass</scope>
+</snippet>

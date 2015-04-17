@@ -1,6 +1,8 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
 	[
@@ -10,13 +12,12 @@
 		"CVS",
 		".sass-cache"
 	],
-	"font_size": 14,
+	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"SublimeLinter",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
@@ -26,6 +27,7 @@
 		120
 	],
 	"spell_check": false,
-	"theme": "Afterglow-green.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }

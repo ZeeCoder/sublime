@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+\$amp: ".c-${1:component}";
+
+#{\$amp} {
+    ${2}
+}
+
+]]></content>
+    <tabTrigger>sass-component</tabTrigger>
+    <scope>source.sass</scope>
+</snippet>
