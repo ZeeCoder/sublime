@@ -8,6 +8,9 @@
     { "keys": ["shift+super+down"], "command": "swap_line_down" },
     { "keys": ["shift+super+right"], "command": "indent" },
     { "keys": ["shift+super+left"], "command": "unindent" },
+    // Comment key bindings.
+    { "keys": ["super+b"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["super+shift+b"], "command": "toggle_comment", "args": { "block": true } },
     // Split screen hotkey overrides.
     {
         "keys": ["super+shift+1"],
