@@ -1,4 +1,6 @@
 [
+    // Deleting a line
+    { "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
     // For the alignment plugin.
     { "keys": ["super+shift+a"], "command": "alignment" },
     // Disabling accidental insertion of "non-breaking spaces".
